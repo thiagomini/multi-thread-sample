@@ -1,0 +1,9 @@
+{
+  "name": "multi-thread-sample",
+  "version": "1.0.0",
+  "description": "A toy repo to play with node multi-threading",
+  "main": "index.js",
+  "author": "Thiago Martins",
+  "license": "MIT",
+  "private": false
+}
